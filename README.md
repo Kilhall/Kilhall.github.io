@@ -1,2 +1,0 @@
-# Kilhall.github.io
-Blog
